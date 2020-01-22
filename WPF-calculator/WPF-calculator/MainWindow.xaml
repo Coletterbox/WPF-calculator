@@ -19,5 +19,15 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
+        <Button x:Name="7" Background="#9CADCE" Grid.Row="1" Grid.Column="0" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="7" />
+        <Button x:Name="8" Background="#9CADCE" Grid.Row="1" Grid.Column="1" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="8" />
+        <Button x:Name="9" Background="#9CADCE" Grid.Row="1" Grid.Column="2" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="9" />
+        <Button x:Name="4" Background="#9CADCE" Grid.Row="2" Grid.Column="0" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="4" />
+        <Button x:Name="5" Background="#9CADCE" Grid.Row="2" Grid.Column="1" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="5" />
+        <Button x:Name="6" Background="#9CADCE" Grid.Row="2" Grid.Column="2" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="6" />
+        <Button x:Name="1" Background="#9CADCE" Grid.Row="3" Grid.Column="0" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="1" />
+        <Button x:Name="2" Background="#9CADCE" Grid.Row="3" Grid.Column="1" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="2" />
+        <Button x:Name="3" Background="#9CADCE" Grid.Row="3" Grid.Column="2" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="3" />
+        <Button x:Name="0" Background="#9CADCE" Grid.Row="4" Grid.Column="1" BorderThickness="5" BorderBrush="#D1CFE2" Click="" Content="0" />
     </Grid>
 </Window>
